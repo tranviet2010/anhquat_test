@@ -1,0 +1,5 @@
+<resources>
+        <color name="colorAccent">#34BFA3</color>
+        <color name="splashscreen_bg">#000</color>
+        <color name="app_bg">#fff</color>
+</resources>

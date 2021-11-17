@@ -284,6 +284,7 @@ class EditIdentityInfomation extends Component {
 		}
 	};
 	render() {
+		console.log("abccc",acb);
 		return (
 			<MView>
 				<MHeader
